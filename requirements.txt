@@ -2,4 +2,3 @@ streamlit
 opencv-python-headless
 numpy
 pandas
-deepface==0.0.93
